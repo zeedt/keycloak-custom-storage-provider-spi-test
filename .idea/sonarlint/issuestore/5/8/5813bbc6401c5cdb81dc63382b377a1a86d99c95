@@ -1,0 +1,9 @@
+
+wsquid:S1192"[Define a constant instead of duplicating this literal "yusufsaheedtaiwo@gmail.com" 5 times.(…Ï²Ì8ªµ«á¥/
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÜÏýŽ8Åá²á¥/
+Isquid:S1481"(Remove this unused "fmt" local variable.(âåøïúÿÿÿÿ8¤ÞÉá¥/
+}squid:S1488"\Immediately return this expression instead of assigning it to the temporary variable "user".(ÄÈá²ùÿÿÿÿ8¤ÞÉá¥/
+Xsquid:S1854"7Remove this useless assignment to local variable "fmt".(âåøïúÿÿÿÿ8¤ÞÉá¥/
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ëøêî8‚ÿÎà¥/
+bsquid:S1126"AReplace this if-then-else statement by a single return statement.(ú¥¢Þÿÿÿÿÿ8¿È¶á¥/
+[squid:UnusedPrivateMethod",Remove this unused private "mapUser" method.(¶Ò£Åÿÿÿÿÿ8¤´Ëá¥/
